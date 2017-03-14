@@ -2,3 +2,4 @@ language: ruby
 group: stable
 dist: precise
 os: linux
+sudo: required
